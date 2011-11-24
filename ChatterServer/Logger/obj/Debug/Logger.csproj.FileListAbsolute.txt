@@ -1,0 +1,25 @@
+c:\users\machiry\documents\visual studio 2010\Projects\ChatterServer\Logger\bin\Debug\Logger.dll
+c:\users\machiry\documents\visual studio 2010\Projects\ChatterServer\Logger\bin\Debug\Logger.pdb
+c:\users\machiry\documents\visual studio 2010\Projects\ChatterServer\Logger\obj\Debug\ResolveAssemblyReference.cache
+c:\users\machiry\documents\visual studio 2010\Projects\ChatterServer\Logger\obj\Debug\Logger.dll
+c:\users\machiry\documents\visual studio 2010\Projects\ChatterServer\Logger\obj\Debug\Logger.pdb
+\\vmware-host\Shared Folders\GIT CS6035 hw7\03 Version Of Chatter - UI text\ChatterServer\Logger\bin\Debug\Logger.dll
+\\vmware-host\Shared Folders\GIT CS6035 hw7\03 Version Of Chatter - UI text\ChatterServer\Logger\bin\Debug\Logger.pdb
+\\vmware-host\Shared Folders\GIT CS6035 hw7\03 Version Of Chatter - UI text\ChatterServer\Logger\obj\Debug\ResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\GIT CS6035 hw7\03 Version Of Chatter - UI text\ChatterServer\Logger\obj\Debug\Logger.dll
+\\vmware-host\Shared Folders\GIT CS6035 hw7\03 Version Of Chatter - UI text\ChatterServer\Logger\obj\Debug\Logger.pdb
+F:\Personal\DropBoxSyncFolder\Dropbox\GIT CS6035 hw7\04 Version Of Chatter\ChatterServer\Logger\bin\Debug\Logger.dll
+F:\Personal\DropBoxSyncFolder\Dropbox\GIT CS6035 hw7\04 Version Of Chatter\ChatterServer\Logger\bin\Debug\Logger.pdb
+F:\Personal\DropBoxSyncFolder\Dropbox\GIT CS6035 hw7\04 Version Of Chatter\ChatterServer\Logger\obj\Debug\ResolveAssemblyReference.cache
+F:\Personal\DropBoxSyncFolder\Dropbox\GIT CS6035 hw7\04 Version Of Chatter\ChatterServer\Logger\obj\Debug\Logger.dll
+F:\Personal\DropBoxSyncFolder\Dropbox\GIT CS6035 hw7\04 Version Of Chatter\ChatterServer\Logger\obj\Debug\Logger.pdb
+\\vmware-host\Shared Folders\GIT CS6035 hw7\05 FINAL\source\ChatterServer\Logger\bin\Debug\Logger.dll
+\\vmware-host\Shared Folders\GIT CS6035 hw7\05 FINAL\source\ChatterServer\Logger\bin\Debug\Logger.pdb
+\\vmware-host\Shared Folders\GIT CS6035 hw7\05 FINAL\source\ChatterServer\Logger\obj\Debug\ResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\GIT CS6035 hw7\05 FINAL\source\ChatterServer\Logger\obj\Debug\Logger.dll
+\\vmware-host\Shared Folders\GIT CS6035 hw7\05 FINAL\source\ChatterServer\Logger\obj\Debug\Logger.pdb
+F:\Personal\MyProjects\securechat\ChatterServer\Logger\bin\Debug\Logger.dll
+F:\Personal\MyProjects\securechat\ChatterServer\Logger\bin\Debug\Logger.pdb
+F:\Personal\MyProjects\securechat\ChatterServer\Logger\obj\Debug\ResolveAssemblyReference.cache
+F:\Personal\MyProjects\securechat\ChatterServer\Logger\obj\Debug\Logger.dll
+F:\Personal\MyProjects\securechat\ChatterServer\Logger\obj\Debug\Logger.pdb

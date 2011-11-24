@@ -1,0 +1,45 @@
+C:\Users\Machiry\Documents\Visual Studio 2010\Projects\ChatterServer\DHHelper\bin\Debug\DHHelper.dll
+C:\Users\Machiry\Documents\Visual Studio 2010\Projects\ChatterServer\DHHelper\bin\Debug\DHHelper.pdb
+C:\Users\Machiry\Documents\Visual Studio 2010\Projects\ChatterServer\DHHelper\bin\Debug\Logger.dll
+C:\Users\Machiry\Documents\Visual Studio 2010\Projects\ChatterServer\DHHelper\bin\Debug\Logger.pdb
+C:\Users\Machiry\Documents\Visual Studio 2010\Projects\ChatterServer\DHHelper\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Machiry\Documents\Visual Studio 2010\Projects\ChatterServer\DHHelper\obj\Debug\DHHelper.dll
+C:\Users\Machiry\Documents\Visual Studio 2010\Projects\ChatterServer\DHHelper\obj\Debug\DHHelper.pdb
+C:\Users\Machiry\Documents\Visual Studio 2010\Projects\ChatterServer\DHHelper\bin\Debug\Security.Cryptography.dll
+C:\Users\Machiry\Documents\Visual Studio 2010\Projects\ChatterServer\DHHelper\bin\Debug\Security.dll
+C:\Users\Machiry\Documents\Visual Studio 2010\Projects\ChatterServer\DHHelper\bin\Debug\Security.pdb
+C:\Users\Machiry\Documents\Visual Studio 2010\Projects\ChatterServer\DHHelper\bin\Debug\Security.xml
+C:\Users\Machiry\Documents\Visual Studio 2010\Projects\ChatterServer\DHHelper\bin\Debug\Security.Cryptography.pdb
+C:\Users\Machiry\Documents\Visual Studio 2010\Projects\ChatterServer\DHHelper\bin\Debug\Security.Cryptography.xml
+\\vmware-host\Shared Folders\GIT CS6035 hw7\03 Version Of Chatter - UI text\ChatterServer\DHHelper\bin\Debug\DHHelper.dll
+\\vmware-host\Shared Folders\GIT CS6035 hw7\03 Version Of Chatter - UI text\ChatterServer\DHHelper\bin\Debug\DHHelper.pdb
+\\vmware-host\Shared Folders\GIT CS6035 hw7\03 Version Of Chatter - UI text\ChatterServer\DHHelper\bin\Debug\Logger.dll
+\\vmware-host\Shared Folders\GIT CS6035 hw7\03 Version Of Chatter - UI text\ChatterServer\DHHelper\bin\Debug\Logger.pdb
+\\vmware-host\Shared Folders\GIT CS6035 hw7\03 Version Of Chatter - UI text\ChatterServer\DHHelper\bin\Debug\Security.pdb
+\\vmware-host\Shared Folders\GIT CS6035 hw7\03 Version Of Chatter - UI text\ChatterServer\DHHelper\bin\Debug\Security.xml
+\\vmware-host\Shared Folders\GIT CS6035 hw7\03 Version Of Chatter - UI text\ChatterServer\DHHelper\bin\Debug\Security.Cryptography.pdb
+\\vmware-host\Shared Folders\GIT CS6035 hw7\03 Version Of Chatter - UI text\ChatterServer\DHHelper\bin\Debug\Security.Cryptography.xml
+\\vmware-host\Shared Folders\GIT CS6035 hw7\03 Version Of Chatter - UI text\ChatterServer\DHHelper\obj\Debug\ResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\GIT CS6035 hw7\03 Version Of Chatter - UI text\ChatterServer\DHHelper\obj\Debug\DHHelper.dll
+\\vmware-host\Shared Folders\GIT CS6035 hw7\03 Version Of Chatter - UI text\ChatterServer\DHHelper\obj\Debug\DHHelper.pdb
+F:\Personal\DropBoxSyncFolder\Dropbox\GIT CS6035 hw7\04 Version Of Chatter\ChatterServer\DHHelper\bin\Debug\DHHelper.dll
+F:\Personal\DropBoxSyncFolder\Dropbox\GIT CS6035 hw7\04 Version Of Chatter\ChatterServer\DHHelper\bin\Debug\DHHelper.pdb
+F:\Personal\DropBoxSyncFolder\Dropbox\GIT CS6035 hw7\04 Version Of Chatter\ChatterServer\DHHelper\bin\Debug\Logger.dll
+F:\Personal\DropBoxSyncFolder\Dropbox\GIT CS6035 hw7\04 Version Of Chatter\ChatterServer\DHHelper\bin\Debug\Logger.pdb
+F:\Personal\DropBoxSyncFolder\Dropbox\GIT CS6035 hw7\04 Version Of Chatter\ChatterServer\DHHelper\obj\Debug\ResolveAssemblyReference.cache
+F:\Personal\DropBoxSyncFolder\Dropbox\GIT CS6035 hw7\04 Version Of Chatter\ChatterServer\DHHelper\obj\Debug\DHHelper.dll
+F:\Personal\DropBoxSyncFolder\Dropbox\GIT CS6035 hw7\04 Version Of Chatter\ChatterServer\DHHelper\obj\Debug\DHHelper.pdb
+\\vmware-host\Shared Folders\GIT CS6035 hw7\05 FINAL\source\ChatterServer\DHHelper\bin\Debug\DHHelper.dll
+\\vmware-host\Shared Folders\GIT CS6035 hw7\05 FINAL\source\ChatterServer\DHHelper\bin\Debug\DHHelper.pdb
+\\vmware-host\Shared Folders\GIT CS6035 hw7\05 FINAL\source\ChatterServer\DHHelper\bin\Debug\Logger.dll
+\\vmware-host\Shared Folders\GIT CS6035 hw7\05 FINAL\source\ChatterServer\DHHelper\bin\Debug\Logger.pdb
+\\vmware-host\Shared Folders\GIT CS6035 hw7\05 FINAL\source\ChatterServer\DHHelper\obj\Debug\ResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\GIT CS6035 hw7\05 FINAL\source\ChatterServer\DHHelper\obj\Debug\DHHelper.dll
+\\vmware-host\Shared Folders\GIT CS6035 hw7\05 FINAL\source\ChatterServer\DHHelper\obj\Debug\DHHelper.pdb
+F:\Personal\MyProjects\securechat\ChatterServer\DHHelper\bin\Debug\DHHelper.dll
+F:\Personal\MyProjects\securechat\ChatterServer\DHHelper\bin\Debug\DHHelper.pdb
+F:\Personal\MyProjects\securechat\ChatterServer\DHHelper\bin\Debug\Logger.dll
+F:\Personal\MyProjects\securechat\ChatterServer\DHHelper\bin\Debug\Logger.pdb
+F:\Personal\MyProjects\securechat\ChatterServer\DHHelper\obj\Debug\ResolveAssemblyReference.cache
+F:\Personal\MyProjects\securechat\ChatterServer\DHHelper\obj\Debug\DHHelper.dll
+F:\Personal\MyProjects\securechat\ChatterServer\DHHelper\obj\Debug\DHHelper.pdb

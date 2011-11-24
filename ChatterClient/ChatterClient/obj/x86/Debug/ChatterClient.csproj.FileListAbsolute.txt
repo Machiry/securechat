@@ -1,0 +1,81 @@
+C:\Users\Machiry\Documents\Visual Studio 2010\Projects\ChatterClient\ChatterClient\bin\Debug\ChatterClient.exe.config
+C:\Users\Machiry\Documents\Visual Studio 2010\Projects\ChatterClient\ChatterClient\bin\Debug\ChatterClient.exe
+C:\Users\Machiry\Documents\Visual Studio 2010\Projects\ChatterClient\ChatterClient\bin\Debug\ChatterClient.pdb
+C:\Users\Machiry\Documents\Visual Studio 2010\Projects\ChatterClient\ChatterClient\bin\Debug\DHHelper.dll
+C:\Users\Machiry\Documents\Visual Studio 2010\Projects\ChatterClient\ChatterClient\bin\Debug\Helper.dll
+C:\Users\Machiry\Documents\Visual Studio 2010\Projects\ChatterClient\ChatterClient\bin\Debug\Logger.dll
+C:\Users\Machiry\Documents\Visual Studio 2010\Projects\ChatterClient\ChatterClient\bin\Debug\DHHelper.pdb
+C:\Users\Machiry\Documents\Visual Studio 2010\Projects\ChatterClient\ChatterClient\bin\Debug\Helper.pdb
+C:\Users\Machiry\Documents\Visual Studio 2010\Projects\ChatterClient\ChatterClient\bin\Debug\Logger.pdb
+C:\Users\Machiry\Documents\Visual Studio 2010\Projects\ChatterClient\ChatterClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Machiry\Documents\Visual Studio 2010\Projects\ChatterClient\ChatterClient\obj\x86\Debug\ChatterClient.exe
+C:\Users\Machiry\Documents\Visual Studio 2010\Projects\ChatterClient\ChatterClient\obj\x86\Debug\ChatterClient.pdb
+C:\Users\Machiry\Documents\Visual Studio 2010\Projects\ChatterClient\ChatterClient\bin\Debug\Security.Cryptography.dll
+C:\Users\Machiry\Documents\Visual Studio 2010\Projects\ChatterClient\ChatterClient\bin\Debug\Security.dll
+C:\Users\Machiry\Documents\Visual Studio 2010\Projects\ChatterClient\ChatterClient\bin\Debug\Security.pdb
+C:\Users\Machiry\Documents\Visual Studio 2010\Projects\ChatterClient\ChatterClient\bin\Debug\Security.xml
+C:\Users\Machiry\Documents\Visual Studio 2010\Projects\ChatterClient\ChatterClient\bin\Debug\Security.Cryptography.pdb
+C:\Users\Machiry\Documents\Visual Studio 2010\Projects\ChatterClient\ChatterClient\bin\Debug\Security.Cryptography.xml
+C:\Users\Machiry\Documents\Visual Studio 2010\Projects\ChatterClient\ChatterClient\obj\x86\Debug\Chatter.ChatterClient.ChatterConsole.resources
+C:\Users\Machiry\Documents\Visual Studio 2010\Projects\ChatterClient\ChatterClient\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Machiry\Documents\Visual Studio 2010\Projects\ChatterClient\ChatterClient\obj\x86\Debug\GenerateResource.write.1.tlog
+\\vmware-host\Shared Folders\GIT CS6035 hw7\03 Version Of Chatter - UI text\ChatterClient\ChatterClient\bin\Debug\ChatterClient.exe.config
+\\vmware-host\Shared Folders\GIT CS6035 hw7\03 Version Of Chatter - UI text\ChatterClient\ChatterClient\obj\x86\Debug\ChatterClient.exe
+\\vmware-host\Shared Folders\GIT CS6035 hw7\03 Version Of Chatter - UI text\ChatterClient\ChatterClient\obj\x86\Debug\ChatterClient.pdb
+\\vmware-host\Shared Folders\GIT CS6035 hw7\03 Version Of Chatter - UI text\ChatterClient\ChatterClient\bin\Debug\ChatterClient.exe
+\\vmware-host\Shared Folders\GIT CS6035 hw7\03 Version Of Chatter - UI text\ChatterClient\ChatterClient\bin\Debug\ChatterClient.pdb
+\\vmware-host\Shared Folders\GIT CS6035 hw7\03 Version Of Chatter - UI text\ChatterClient\ChatterClient\bin\Debug\DHHelper.dll
+\\vmware-host\Shared Folders\GIT CS6035 hw7\03 Version Of Chatter - UI text\ChatterClient\ChatterClient\bin\Debug\Helper.dll
+\\vmware-host\Shared Folders\GIT CS6035 hw7\03 Version Of Chatter - UI text\ChatterClient\ChatterClient\bin\Debug\Logger.dll
+\\vmware-host\Shared Folders\GIT CS6035 hw7\03 Version Of Chatter - UI text\ChatterClient\ChatterClient\bin\Debug\DHHelper.pdb
+\\vmware-host\Shared Folders\GIT CS6035 hw7\03 Version Of Chatter - UI text\ChatterClient\ChatterClient\bin\Debug\Helper.pdb
+\\vmware-host\Shared Folders\GIT CS6035 hw7\03 Version Of Chatter - UI text\ChatterClient\ChatterClient\bin\Debug\Logger.pdb
+\\vmware-host\Shared Folders\GIT CS6035 hw7\03 Version Of Chatter - UI text\ChatterClient\ChatterClient\bin\Debug\Security.pdb
+\\vmware-host\Shared Folders\GIT CS6035 hw7\03 Version Of Chatter - UI text\ChatterClient\ChatterClient\bin\Debug\Security.xml
+\\vmware-host\Shared Folders\GIT CS6035 hw7\03 Version Of Chatter - UI text\ChatterClient\ChatterClient\bin\Debug\Security.Cryptography.pdb
+\\vmware-host\Shared Folders\GIT CS6035 hw7\03 Version Of Chatter - UI text\ChatterClient\ChatterClient\bin\Debug\Security.Cryptography.xml
+\\vmware-host\Shared Folders\GIT CS6035 hw7\03 Version Of Chatter - UI text\ChatterClient\ChatterClient\obj\x86\Debug\ResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\GIT CS6035 hw7\03 Version Of Chatter - UI text\ChatterClient\ChatterClient\obj\x86\Debug\Chatter.ChatterClient.ChatterConsole.resources
+\\vmware-host\Shared Folders\GIT CS6035 hw7\03 Version Of Chatter - UI text\ChatterClient\ChatterClient\obj\x86\Debug\GenerateResource.read.1.tlog
+\\vmware-host\Shared Folders\GIT CS6035 hw7\03 Version Of Chatter - UI text\ChatterClient\ChatterClient\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Personal\DropBoxSyncFolder\Dropbox\GIT CS6035 hw7\04 Version Of Chatter\ChatterClient\ChatterClient\bin\Debug\ChatterClient.exe.config
+F:\Personal\DropBoxSyncFolder\Dropbox\GIT CS6035 hw7\04 Version Of Chatter\ChatterClient\ChatterClient\obj\x86\Debug\ChatterClient.exe
+F:\Personal\DropBoxSyncFolder\Dropbox\GIT CS6035 hw7\04 Version Of Chatter\ChatterClient\ChatterClient\obj\x86\Debug\ChatterClient.pdb
+F:\Personal\DropBoxSyncFolder\Dropbox\GIT CS6035 hw7\04 Version Of Chatter\ChatterClient\ChatterClient\bin\Debug\ChatterClient.exe
+F:\Personal\DropBoxSyncFolder\Dropbox\GIT CS6035 hw7\04 Version Of Chatter\ChatterClient\ChatterClient\bin\Debug\ChatterClient.pdb
+F:\Personal\DropBoxSyncFolder\Dropbox\GIT CS6035 hw7\04 Version Of Chatter\ChatterClient\ChatterClient\bin\Debug\DHHelper.dll
+F:\Personal\DropBoxSyncFolder\Dropbox\GIT CS6035 hw7\04 Version Of Chatter\ChatterClient\ChatterClient\bin\Debug\Helper.dll
+F:\Personal\DropBoxSyncFolder\Dropbox\GIT CS6035 hw7\04 Version Of Chatter\ChatterClient\ChatterClient\bin\Debug\Logger.dll
+F:\Personal\DropBoxSyncFolder\Dropbox\GIT CS6035 hw7\04 Version Of Chatter\ChatterClient\ChatterClient\bin\Debug\DHHelper.pdb
+F:\Personal\DropBoxSyncFolder\Dropbox\GIT CS6035 hw7\04 Version Of Chatter\ChatterClient\ChatterClient\bin\Debug\Helper.pdb
+F:\Personal\DropBoxSyncFolder\Dropbox\GIT CS6035 hw7\04 Version Of Chatter\ChatterClient\ChatterClient\bin\Debug\Logger.pdb
+F:\Personal\DropBoxSyncFolder\Dropbox\GIT CS6035 hw7\04 Version Of Chatter\ChatterClient\ChatterClient\bin\Debug\Security.pdb
+F:\Personal\DropBoxSyncFolder\Dropbox\GIT CS6035 hw7\04 Version Of Chatter\ChatterClient\ChatterClient\bin\Debug\Security.xml
+F:\Personal\DropBoxSyncFolder\Dropbox\GIT CS6035 hw7\04 Version Of Chatter\ChatterClient\ChatterClient\bin\Debug\Security.Cryptography.pdb
+F:\Personal\DropBoxSyncFolder\Dropbox\GIT CS6035 hw7\04 Version Of Chatter\ChatterClient\ChatterClient\bin\Debug\Security.Cryptography.xml
+F:\Personal\DropBoxSyncFolder\Dropbox\GIT CS6035 hw7\04 Version Of Chatter\ChatterClient\ChatterClient\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Personal\DropBoxSyncFolder\Dropbox\GIT CS6035 hw7\04 Version Of Chatter\ChatterClient\ChatterClient\obj\x86\Debug\Chatter.ChatterClient.ChatterConsole.resources
+F:\Personal\DropBoxSyncFolder\Dropbox\GIT CS6035 hw7\04 Version Of Chatter\ChatterClient\ChatterClient\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Personal\DropBoxSyncFolder\Dropbox\GIT CS6035 hw7\04 Version Of Chatter\ChatterClient\ChatterClient\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Personal\DropBoxSyncFolder\Dropbox\GIT CS6035 hw7\05 FINAL\source\ChatterClient\ChatterClient\bin\Debug\ChatterClient.exe.config
+F:\Personal\DropBoxSyncFolder\Dropbox\GIT CS6035 hw7\05 FINAL\source\ChatterClient\ChatterClient\obj\x86\Debug\ChatterClient.exe
+F:\Personal\DropBoxSyncFolder\Dropbox\GIT CS6035 hw7\05 FINAL\source\ChatterClient\ChatterClient\obj\x86\Debug\ChatterClient.pdb
+F:\Personal\MyProjects\securechat\ChatterClient\ChatterClient\bin\Debug\SecureChatClient.exe.config
+F:\Personal\MyProjects\securechat\ChatterClient\ChatterClient\bin\Debug\SecureChatClient.exe
+F:\Personal\MyProjects\securechat\ChatterClient\ChatterClient\bin\Debug\SecureChatClient.pdb
+F:\Personal\MyProjects\securechat\ChatterClient\ChatterClient\bin\Debug\DHHelper.dll
+F:\Personal\MyProjects\securechat\ChatterClient\ChatterClient\bin\Debug\Helper.dll
+F:\Personal\MyProjects\securechat\ChatterClient\ChatterClient\bin\Debug\Logger.dll
+F:\Personal\MyProjects\securechat\ChatterClient\ChatterClient\bin\Debug\DHHelper.pdb
+F:\Personal\MyProjects\securechat\ChatterClient\ChatterClient\bin\Debug\Helper.pdb
+F:\Personal\MyProjects\securechat\ChatterClient\ChatterClient\bin\Debug\Logger.pdb
+F:\Personal\MyProjects\securechat\ChatterClient\ChatterClient\bin\Debug\Security.pdb
+F:\Personal\MyProjects\securechat\ChatterClient\ChatterClient\bin\Debug\Security.xml
+F:\Personal\MyProjects\securechat\ChatterClient\ChatterClient\bin\Debug\Security.Cryptography.pdb
+F:\Personal\MyProjects\securechat\ChatterClient\ChatterClient\bin\Debug\Security.Cryptography.xml
+F:\Personal\MyProjects\securechat\ChatterClient\ChatterClient\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Personal\MyProjects\securechat\ChatterClient\ChatterClient\obj\x86\Debug\Chatter.ChatterClient.ChatterConsole.resources
+F:\Personal\MyProjects\securechat\ChatterClient\ChatterClient\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Personal\MyProjects\securechat\ChatterClient\ChatterClient\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Personal\MyProjects\securechat\ChatterClient\ChatterClient\obj\x86\Debug\SecureChatClient.exe
+F:\Personal\MyProjects\securechat\ChatterClient\ChatterClient\obj\x86\Debug\SecureChatClient.pdb

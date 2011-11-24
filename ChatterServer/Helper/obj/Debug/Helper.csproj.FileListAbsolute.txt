@@ -1,0 +1,30 @@
+C:\Users\Machiry\Documents\Visual Studio 2010\Projects\ChatterServer\Helper\bin\Debug\Helper.dll
+C:\Users\Machiry\Documents\Visual Studio 2010\Projects\ChatterServer\Helper\bin\Debug\Helper.pdb
+C:\Users\Machiry\Documents\Visual Studio 2010\Projects\ChatterServer\Helper\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Machiry\Documents\Visual Studio 2010\Projects\ChatterServer\Helper\obj\Debug\Helper.dll
+C:\Users\Machiry\Documents\Visual Studio 2010\Projects\ChatterServer\Helper\obj\Debug\Helper.pdb
+C:\Users\Machiry\Documents\Visual Studio 2010\Projects\ChatterServer\Helper\bin\Debug\Helper.dll.config
+\\vmware-host\Shared Folders\GIT CS6035 hw7\03 Version Of Chatter - UI text\ChatterServer\Helper\bin\Debug\Helper.dll.config
+\\vmware-host\Shared Folders\GIT CS6035 hw7\03 Version Of Chatter - UI text\ChatterServer\Helper\bin\Debug\Helper.dll
+\\vmware-host\Shared Folders\GIT CS6035 hw7\03 Version Of Chatter - UI text\ChatterServer\Helper\bin\Debug\Helper.pdb
+\\vmware-host\Shared Folders\GIT CS6035 hw7\03 Version Of Chatter - UI text\ChatterServer\Helper\obj\Debug\ResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\GIT CS6035 hw7\03 Version Of Chatter - UI text\ChatterServer\Helper\obj\Debug\Helper.dll
+\\vmware-host\Shared Folders\GIT CS6035 hw7\03 Version Of Chatter - UI text\ChatterServer\Helper\obj\Debug\Helper.pdb
+F:\Personal\DropBoxSyncFolder\Dropbox\GIT CS6035 hw7\04 Version Of Chatter\ChatterServer\Helper\bin\Debug\Helper.dll.config
+F:\Personal\DropBoxSyncFolder\Dropbox\GIT CS6035 hw7\04 Version Of Chatter\ChatterServer\Helper\bin\Debug\Helper.dll
+F:\Personal\DropBoxSyncFolder\Dropbox\GIT CS6035 hw7\04 Version Of Chatter\ChatterServer\Helper\bin\Debug\Helper.pdb
+F:\Personal\DropBoxSyncFolder\Dropbox\GIT CS6035 hw7\04 Version Of Chatter\ChatterServer\Helper\obj\Debug\ResolveAssemblyReference.cache
+F:\Personal\DropBoxSyncFolder\Dropbox\GIT CS6035 hw7\04 Version Of Chatter\ChatterServer\Helper\obj\Debug\Helper.dll
+F:\Personal\DropBoxSyncFolder\Dropbox\GIT CS6035 hw7\04 Version Of Chatter\ChatterServer\Helper\obj\Debug\Helper.pdb
+\\vmware-host\Shared Folders\GIT CS6035 hw7\05 FINAL\source\ChatterServer\Helper\bin\Debug\Helper.dll.config
+\\vmware-host\Shared Folders\GIT CS6035 hw7\05 FINAL\source\ChatterServer\Helper\bin\Debug\Helper.dll
+\\vmware-host\Shared Folders\GIT CS6035 hw7\05 FINAL\source\ChatterServer\Helper\bin\Debug\Helper.pdb
+\\vmware-host\Shared Folders\GIT CS6035 hw7\05 FINAL\source\ChatterServer\Helper\obj\Debug\ResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\GIT CS6035 hw7\05 FINAL\source\ChatterServer\Helper\obj\Debug\Helper.dll
+\\vmware-host\Shared Folders\GIT CS6035 hw7\05 FINAL\source\ChatterServer\Helper\obj\Debug\Helper.pdb
+F:\Personal\MyProjects\securechat\ChatterServer\Helper\bin\Debug\Helper.dll.config
+F:\Personal\MyProjects\securechat\ChatterServer\Helper\bin\Debug\Helper.dll
+F:\Personal\MyProjects\securechat\ChatterServer\Helper\bin\Debug\Helper.pdb
+F:\Personal\MyProjects\securechat\ChatterServer\Helper\obj\Debug\ResolveAssemblyReference.cache
+F:\Personal\MyProjects\securechat\ChatterServer\Helper\obj\Debug\Helper.dll
+F:\Personal\MyProjects\securechat\ChatterServer\Helper\obj\Debug\Helper.pdb

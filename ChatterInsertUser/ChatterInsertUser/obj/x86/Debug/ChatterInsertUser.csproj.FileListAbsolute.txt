@@ -1,0 +1,15 @@
+c:\users\machiry\documents\visual studio 2010\Projects\ChatterInsertUser\ChatterInsertUser\bin\Debug\ChatterInsertUser.exe
+c:\users\machiry\documents\visual studio 2010\Projects\ChatterInsertUser\ChatterInsertUser\bin\Debug\ChatterInsertUser.pdb
+c:\users\machiry\documents\visual studio 2010\Projects\ChatterInsertUser\ChatterInsertUser\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\machiry\documents\visual studio 2010\Projects\ChatterInsertUser\ChatterInsertUser\obj\x86\Debug\ChatterInsertUser.exe
+c:\users\machiry\documents\visual studio 2010\Projects\ChatterInsertUser\ChatterInsertUser\obj\x86\Debug\ChatterInsertUser.pdb
+\\vmware-host\Shared Folders\GIT CS6035 hw7\03 Version Of Chatter - UI text\ChatterInsertUser\ChatterInsertUser\obj\x86\Debug\ChatterInsertUser.exe
+\\vmware-host\Shared Folders\GIT CS6035 hw7\03 Version Of Chatter - UI text\ChatterInsertUser\ChatterInsertUser\obj\x86\Debug\ChatterInsertUser.pdb
+\\vmware-host\Shared Folders\GIT CS6035 hw7\03 Version Of Chatter - UI text\ChatterInsertUser\ChatterInsertUser\bin\Debug\ChatterInsertUser.exe
+\\vmware-host\Shared Folders\GIT CS6035 hw7\03 Version Of Chatter - UI text\ChatterInsertUser\ChatterInsertUser\bin\Debug\ChatterInsertUser.pdb
+\\vmware-host\Shared Folders\GIT CS6035 hw7\03 Version Of Chatter - UI text\ChatterInsertUser\ChatterInsertUser\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Personal\MyProjects\securechat\ChatterInsertUser\ChatterInsertUser\bin\Debug\SecureChat_InsertUser.exe
+F:\Personal\MyProjects\securechat\ChatterInsertUser\ChatterInsertUser\bin\Debug\SecureChat_InsertUser.pdb
+F:\Personal\MyProjects\securechat\ChatterInsertUser\ChatterInsertUser\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Personal\MyProjects\securechat\ChatterInsertUser\ChatterInsertUser\obj\x86\Debug\SecureChat_InsertUser.exe
+F:\Personal\MyProjects\securechat\ChatterInsertUser\ChatterInsertUser\obj\x86\Debug\SecureChat_InsertUser.pdb
