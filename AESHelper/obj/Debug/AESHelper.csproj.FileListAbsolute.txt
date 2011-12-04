@@ -1,0 +1,5 @@
+C:\Users\Machiry\documents\visual studio 2010\Projects\AESHelper\AESHelper\bin\Debug\AESHelper.dll
+C:\Users\Machiry\documents\visual studio 2010\Projects\AESHelper\AESHelper\bin\Debug\AESHelper.pdb
+C:\Users\Machiry\documents\visual studio 2010\Projects\AESHelper\AESHelper\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Machiry\documents\visual studio 2010\Projects\AESHelper\AESHelper\obj\Debug\AESHelper.dll
+C:\Users\Machiry\documents\visual studio 2010\Projects\AESHelper\AESHelper\obj\Debug\AESHelper.pdb
