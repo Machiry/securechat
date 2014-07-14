@@ -77,6 +77,7 @@ char* Peepq(QUE_PTR que) {
     if (!IsQueueEmpty(que)) {
         data = que->elements[que->bottom]->data;
     }
+	return data;
 }
 
 

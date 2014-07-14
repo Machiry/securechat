@@ -123,6 +123,18 @@ int IsSLListGood(SLListPtr list) {
     return !err;
 }
 
+void DelSLList(SLListPtr list) {
+    SLLNodePtr curr,temp;
+    if(list) {
+        curr = list->first;
+        while(curr) {
+            temp = curr->next;
+            free(curr);
+            curr=temp;
+        }
+        free(list);
+    }
+}
 static SLLNodePtr ReverseSLList(SLLNodePtr first, SLLNodePtr *last) {
     SLLNodePtr firstNode = null;
     if (first == null) {

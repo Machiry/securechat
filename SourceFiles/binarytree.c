@@ -29,7 +29,7 @@ int InsertNode(TreePtr tree, int newData) {
             newNode->data = newData;
             newNode->left = newNode->right = null;
             //Here this is to make sure that we don't loop infinately for cyclic trees
-            ulong maxNoOFNodes = tree->size;
+            unsigned long maxNoOFNodes = tree->size;
             TreeNodePtr currentNode = tree->root;
             if (currentNode == null) {
                 tree->root = newNode;
@@ -70,7 +70,7 @@ int RemoveNodeByData(TreePtr tree, int data, int removeAllNodes) {
     if (tree) {
         TreeNodePtr currentNodePtr = tree->root;
         TreeNodePtr parentNode = null;
-        ulong MaxNoOfIterations = tree->size;
+        unsigned long MaxNoOfIterations = tree->size;
         while (currentNodePtr != null && MaxNoOfIterations > 0) {
             if (currentNodePtr->data == data) {
                 TreeNodePtr resultNodePtr = currentNodePtr->right ? currentNodePtr->right : currentNodePtr->left;
@@ -121,7 +121,7 @@ int RemoveNodeByNodePtr(TreePtr tree, TreeNodePtr node) {
     if (tree && node) {
         TreeNodePtr currentNodePtr = tree->root;
         TreeNodePtr parentNode = null;
-        ulong MaxNoOfIterations = tree->size;
+        unsigned long MaxNoOfIterations = tree->size;
         while (currentNodePtr != null && MaxNoOfIterations > 0) {
             if (currentNodePtr == node) {
                 TreeNodePtr resultNodePtr = currentNodePtr->right ? currentNodePtr->right : currentNodePtr->left;

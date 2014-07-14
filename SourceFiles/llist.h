@@ -91,7 +91,9 @@ int SL_Sort(SLListPtr list);
 //returs the head of the reversed list or null of the provided list is null
 SLListPtr SL_ReverseList(SLListPtr list);
 
-
+//This function fress the memory associtaed with the provided list
+//return void
+void DelSLList(SLListPtr list);
 
 //Functions Supporting Doubly Linked List
 

@@ -11,7 +11,9 @@
 #include<stdio.h>
 #include<string.h>
 #include<stdlib.h>
+#ifndef __MACH__
 #include<malloc.h>
+#endif
 #define null NULL
 
 

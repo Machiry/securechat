@@ -22,7 +22,7 @@ extern "C" {
     //This is the structure used to store the tree
     typedef struct Tree{
         struct TreeNode *root;
-        ulong size;
+        unsigned long size;
     } TreeRootNode,*TreePtr;
 
     //This function creates a new node in the tree
